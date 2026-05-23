@@ -41,5 +41,5 @@ Welcome to the first public release of **Block External Requests – Iran Pro Ul
 
 ## ❤️ Developed By
 
-**Mohammadamin Kouhi**
+**Mohammadamin Koohi**
 🌍 https://ascript.ir
